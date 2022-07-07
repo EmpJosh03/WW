@@ -3,3 +3,5 @@ This is the start of the Whitewings web application.
 
 Initially, it is only HTML and CSS that is used on the website. 
 Subsequent commits will start to use React and JS technologies as well.
+# Whitewings is the starting project for Krystal Corporation, and this is the initial birthplace of it. 
+# This ReadMe will be updated as time goes on. 
